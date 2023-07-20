@@ -9,9 +9,11 @@ I am suggesting this match format, as it can be more interesting than current bo
 # Details:
 "BOT Challenge" Match is divided into 3 laps (10-over innings in each lap)
 
-lap1: Team A bat first and sets a target, Team B chases that target ==> (result 1)
-lap2: Team B continues to bat for another 10 overs and gives a target, then team A chases that target for another 10 overs ==> (result 2)
-lap3: Team A continues to bat for another 10 overs and gives the final target, team B chases that ==> (result 3)
+**Lap-1:** Team A bat first and sets a target, Team B chases that target ==> (result 1)  
+
+**Lap-2:** Team B continues to bat for another 10 overs and gives a target, then team A chases that target for another 10 overs ==> (result 2)  
+
+**Lap-3:** Team A continues to bat for another 10 overs and gives the final target, team B chases that ==> (result 3)  
 
 - we'll have 3 results from 3 laps
 - winner will be decided on the Best-of-Three rule (must win 2 out of 3 laps)
