@@ -22,12 +22,12 @@ I am suggesting this match format, as it can be more interesting than current bo
 
 # Example of "BOT Challenge" cricket match format 
 NOTE: / = batting🏏   . = bowling⚾
-
-Lap:    1				 		   	                           2                          							   3  
-Team A: / / / / / / / / / / . . . . . . . . . .    . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .  
-Team B: . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /  
+```
+Lap:    1				 	  2    				             3
+Team A: / / / / / / / / / / . . . . . . . . . .    . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .
+Team B: . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /
 result: -------------------------------- A wins   -------------------------------- B wins   ----------------------------------- A wins  
-
+```
 Winner: Team A, as it wins lap 1 and 3
 
 ## rules (can be modified or add more):
