@@ -34,6 +34,6 @@ Winner: Team A, as it wins lap 1 and 3
 - in each lap one player can bowl max 3 overs, in total max 7 overs
 - lap-1 is power play
 
-Thank you.
-Suman Gyawali
+Thank you. ❣️  
+Suman Gyawali  
 suman.plp@gmail.com
