@@ -17,11 +17,11 @@ I am suggesting this match format, as it can be more interesting than current bo
 
 - we'll have 3 results from 3 laps
 - winner will be decided on the Best-of-Three rule (must win 2 out of 3 laps)
-- A team will be obvious winner if manage to win lap 1 and 2, no need to play lap 3
-- if couldn't decide winner from the Best-of-Three rule (in case of tie), final result will decide the winner
+- A team will be obvious winner if manage to win lap 1 and 2, then no need to play lap 3
+- If couldn't decide winner from Best-of-Three rule (in case of tie), then total score will decide the winner
 
 # Example of "BOT Challenge" cricket match format 
-NOTE: / = batting🏏   . = bowling⚾
+NOTE: / = batting🏏            . = bowling⚾
 ```
 Lap:    1				 	  2    				             3
 Team A: / / / / / / / / / / . . . . . . . . . .    . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .
@@ -33,6 +33,10 @@ Winner: Team A, as it wins lap 1 and 3
 ## rules (can be modified or add more):
 - in each lap one player can bowl max 3 overs, in total max 7 overs
 - lap-1 is power play
+- point system:
+  * 2 for win, 0 for loss
+  * 3 points for winner, if manage to win in lap-1
+  * 1 point for losing team if couldn't decide winner from Best-of-three rule
 
 Thank you. ❣️  
 Suman Gyawali  
