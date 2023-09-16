@@ -21,12 +21,12 @@ I am suggesting this match format, as it can be more interesting than current bo
 - If couldn't decide winner from Best-of-Three rule (in case of tie), then total score will decide the winner
 
 # Example of "BOT Challenge" cricket match format 
-NOTE: / = batting🏏            . = bowling⚾
+NOTE: / = batting🏏     . = bowling⚾
 ```
 Lap:    1				 	  2    				             3
 Team A: / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .
 Team B: . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /
-result: -------------------------------- A wins   -------------------------------- B wins   ----------------------------------- A wins  
+result: --------------------------> Team A wins   --------------------------> Team B wins   ---------------------------> Team A wins  
 ```
 Winner: Team A, as it wins lap 1 and 3
 
@@ -42,7 +42,7 @@ Winner: Team A, as it wins lap 1 and 3
 - point system:
   * 2 for win, 0 for loss
   * 3 points for winner, if manage to win in lap-1
-  * 1 point for losing team if couldn't decide winner from Best-of-three rule
+  * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
 
 Thank you. ❣️  
 Suman Gyawali  
