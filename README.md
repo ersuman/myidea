@@ -1,3 +1,13 @@
+# My idea for New/Enhanced ODI Cricket match format
+Current ODI format is of 50 overs innings, I find this format too much boooooring... That's why I am suggesting this **NEW** ODI format.  
+**Rules:**  
+* Match will be of 40 overs for each team
+* Team-A and Team-B will play(bat/bowl) alternatively 10-10 overs.
+   
+This format would enhance the excitement for both teams compared to the traditional 50-over format. In the current format, if the batting team plays for 50 overs, the chasing team's fans may not experience as much engagement.
+Additionally, this format has the potential to conclude earlier if one team significantly outperforms the other, leading to a more decisive result.
+
+----
 # My idea for new cricket match format "BOT (Best-Of-Three) Challenge"
 
 Here is my idea for the new cricket match format , say "Best Of Three" (BOT) challenge
@@ -44,15 +54,6 @@ Winner: Team A, as it wins lap 1 and 3
   * 3 points for winner, if manage to win in lap-1
   * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
 
-----
-# My idea for new ODI Cricket match format
-Current ODI format is of 50 overs innings, I find this format too much boooooring... That's why I am suggesting this **NEW** ODI format.  
-**Rules:**  
-* Match will be of 40 overs for each team
-* Team-A and Team-B will play(bat/bowl) alternatively 10-10 overs.
- 
-This format would enhance the excitement for both teams compared to the traditional 50-over format. In the current format, if the batting team plays for 50 overs, the chasing team's fans may not experience as much engagement.
-Additionally, this format has the potential to conclude earlier if one team significantly outperforms the other, leading to a more decisive result.
 
 Thank you. ❣️  
 Suman Gyawali  
