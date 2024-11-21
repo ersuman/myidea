@@ -2,11 +2,11 @@
 
 Here is my idea for the new cricket match format , say "Best Of Three" (BOT) challenge
 
-# In Summary:
+## In Summary:
 This is nothing but, three T10 matches where Team A and B bat/bowl one after another alternatively.
 I am suggesting this match format, as it can be more interesting than current booooo...ring 50 over ODI.
 
-# Details:
+## Details:
 | Lap     | 1          |            | 2          |            | 3          |            |
 |---------|:-----------|------------|:-----------|------------|:-----------|------------|
 | Innings | 1          | 2          | 1          | 2          | 1          | 2          |
@@ -26,7 +26,7 @@ I am suggesting this match format, as it can be more interesting than current bo
 - A team will be obvious winner if manage to win lap 1 and 2, then no need to play lap 3
 - If couldn't decide winner from Best-of-Three rule (in case of tie), then total score will decide the winner
 
-# Example of "BOT Challenge" cricket match format 
+## Example of "BOT Challenge" cricket match format 
 NOTE: / = batting🏏     . = bowling⚾
 ```
 Lap:    1				 	  2    				             3
@@ -44,7 +44,7 @@ Winner: Team A, as it wins lap 1 and 3
   * 3 points for winner, if manage to win in lap-1
   * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
 
-
+----
 # My idea for new ODI Cricket match format
 Current ODI format is of 50 overs innings, I find this format too much boooooring... That's why I am suggesting this **NEW** ODI format.  
 **Rules:**  
