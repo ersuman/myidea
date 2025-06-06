@@ -8,7 +8,7 @@ This format would enhance the excitement for both teams compared to the traditio
 Additionally, this new format has the potential to conclude earlier if one team significantly outperforms the other, leading to a more decisive result.
 
 ----
-# My idea for new cricket match format "BOT (Best-Of-Three) Challenge"
+# New cricket match format "BOT (Best-Of-Three) Challenge"
 
 Here is my idea for the new cricket match format , say "Best Of Three" (BOT) challenge
 
