@@ -32,7 +32,7 @@ I am suggesting this match format, as it can be more interesting than current bo
 **Set-3:** Team A continues to bat for another 10 overs and gives the final target, team B chases that ==> (result 3)  
 
 - we'll have 3 results from 3 sets
-- winner will be decided on the Best-of-Three rule (must win 2 out of 3 sets, or 2 sets draw and 1 win)
+- winner will be decided on the Best-of-Three rule (must win 2 out of 3 sets, or 1 win if 2 sets draw)
 - A team will be obvious winner if manage to win set 1 and 2, then no need to play set-3
 - If couldn't decide winner from Best-of-Three rule (in case of tie), then total score will decide the winner 
 
