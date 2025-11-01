@@ -39,7 +39,7 @@ I am suggesting this match format, as it can be more interesting than current bo
 ## Example of "BOT Challenge" cricket match format 
 NOTE: / = batting🏏     . = bowling⚾
 ```
-Set:    1				 	  2    				             3
+Set:    1                                         2                                         3
 Team A: / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .
 Team B: . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /
 result: --------------------------> Team A wins   --------------------------> Team B wins   ---------------------------> Team A wins  
