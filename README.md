@@ -44,8 +44,8 @@ Team A: / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / 
 Team B: . . . . . . . . . . / / / / / / / / / /   / / / / / / / / / / . . . . . . . . . .   . . . . . . . . . . / / / / / / / / / /
 result: --------------------------> Team A wins   --------------------------> Team B wins   ---------------------------> Team A wins  
 ```
-Winner: Team A, as it wins set 1 and 3
-If two set results in draw, then another set winner will be final winner
+Winner: Team A, as it wins set 1 and 3  
+If two set results in draw, then another set winner will be final winner  
 e.g. set1 = drwa, set2 = team B wins, set3 = draw : then Team B will be winner
 
 ## rules (can be modified or add more):
