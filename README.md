@@ -2,7 +2,7 @@
 Current ODI format is of 50 overs innings, I find this format too much boooooring... That's why I am suggesting this **NEW** ODI format.  
 **Rules:**  
 * Match will be of 40 overs for each team
-* Team-A and Team-B will play(bat/bowl) alternatively 10-10 overs.
+* Team-A and Team-B will play(bat/bowl) alternatively 10-10 or 20-20 overs.
    
 This format would enhance the excitement for both teams compared to the traditional 50-over format. In the current format, if the batting team plays for 50 overs, the chasing team's fans may not experience as much engagement.
 Additionally, this new format has the potential to conclude earlier if one team significantly outperforms the other, leading to a more decisive result.
@@ -46,7 +46,7 @@ result: --------------------------> Team A wins   --------------------------> Te
 ```
 Winner: Team A, as it wins set 1 and 3  
 If two set results in draw, then another set winner will be final winner  
-e.g. set1 = drwa, set2 = team B wins, set3 = draw : then Team B will be winner
+e.g. set1 = draw, set2 = team B wins, set3 = draw : then Team B will be winner
 
 ## rules (can be modified or add more):
 - in each set one player can bowl max 3 overs, in total max 7 overs
@@ -56,6 +56,25 @@ e.g. set1 = drwa, set2 = team B wins, set3 = draw : then Team B will be winner
   * 3 points for winner, if manage to win in set-1
   * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
 
+## Another format: not best-of-three but full 30 overs match (lets say thirties)
+- Even if a team wins set-1 and set-2, game won't stop and continues to play set-3
+- Point:
+  * 1 point for each set winner
+  * point of the "set with draw" will be awarded to final winner
+- Example:
+  
+| Set:     | 1       | 2       | 3       | Point (A-B)   |
+|----------|---------|---------|---------|---------------|
+| Winner   | Team A  | Team A  | Team B  | 2-1           |
+| Winner   | Team A  | Team B  | Team B  | 1-2           |
+| Winner   | Team A  | Team B  | Team A  | 2-1           |
+| Winner   | Team A  | Draw    | Team B  | 1-2           |
+| Winner   | Team A  | Draw    | Team A  | 3-0           |
+| Winner   | Draw    | Draw    | Team A  | 3-0           |
+| Winner   | Team A  | Draw    | Draw    | 1-1 + S.Over  |
+| Winner   | Team A  | Team A  | Draw    | 2-0 + S.Over  |
+
+  
 ### another thought:
 **after a set is over, the team with least wickets available will bat first in another set**
 
