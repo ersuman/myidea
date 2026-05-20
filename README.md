@@ -56,14 +56,20 @@ e.g. set1 = draw, set2 = team B wins, set3 = draw : then Team B will be winner
   * 3 points for winner, if manage to win in set-1
   * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
 
-# Another format: not best-of-three but full 30 overs match (lets say thirties) - suitable for group/league format
+## Another format: not best-of-three but full 30 overs match (lets say thirties)
 - Even if a team wins set-1 and set-2, game won't stop and continues to play set-3
-- Point:
+- Point rule (for group/league format):
   * 1 point for each set winner
   * if two sets results in draw, 1-1 point for both teams 
   * in case of 1 set draw, point of the "set with draw" will be awarded to final set winner
   * if draw only in final set, super over will decide winner of that set
   * if a team makes all-out, remaining set's point also awarded to that team
+    
+* For knock-out format  
+  - best-of-three rule will apply
+  - if a team wins set 1 and 2 , no need to play set 3
+  - set-3 winner will be final winner
+  - if draw in set-3, then super over will decide the winner
 
 - Example:
   
