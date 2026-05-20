@@ -56,23 +56,33 @@ e.g. set1 = draw, set2 = team B wins, set3 = draw : then Team B will be winner
   * 3 points for winner, if manage to win in set-1
   * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
 
-## Another format: not best-of-three but full 30 overs match (lets say thirties)
+# Another format: not best-of-three but full 30 overs match (lets say thirties) - suitable for group/league format
 - Even if a team wins set-1 and set-2, game won't stop and continues to play set-3
 - Point:
   * 1 point for each set winner
-  * point of the "set with draw" will be awarded to final winner
+  * if two sets results in draw, 1-1 point for both teams 
+  * in case of 1 set draw, point of the "set with draw" will be awarded to final set winner
+  * if draw only in final set, super over will decide winner of that set
+  * if a team makes all-out, remaining set's point also awarded to that team
+
 - Example:
   
 | Set:     | 1       | 2       | 3       | Point (A-B)   |
 |----------|---------|---------|---------|---------------|
+| Winner   | Team A  | Team A  | -       | 3-0           |
+| Winner   | Team A  | Team B  | -       | 1-2           |
 | Winner   | Team A  | Team A  | Team B  | 2-1           |
 | Winner   | Team A  | Team B  | Team B  | 1-2           |
 | Winner   | Team A  | Team B  | Team A  | 2-1           |
 | Winner   | Team A  | Draw    | Team B  | 1-2           |
 | Winner   | Team A  | Draw    | Team A  | 3-0           |
-| Winner   | Draw    | Draw    | Team A  | 3-0           |
-| Winner   | Team A  | Draw    | Draw    | 1-1 + S.Over  |
+| Winner   | Draw    | Draw    | Team B  | 1-2           |
+| Winner   | Draw    | Team B  | Team A  | 2-1           |
+| Winner   | Team A  | Draw    | Draw    | 2-1           |
+| Winner   | Draw    | Team A  | Draw    | 2-1           |
+| Winner   | Team A  | Team B  | Draw    | 1-1 + S.Over  |
 | Winner   | Team A  | Team A  | Draw    | 2-0 + S.Over  |
+
 
   
 ### another thought:
