@@ -97,11 +97,21 @@ e.g. set1 = draw, set2 = team B wins, set3 = draw : then Team B will be winner
 | Winner   | Team A  | Team B  | Draw    | 1-1 + S.Over  |
 | Winner   | Team A  | Team A  | Draw    | 2-0 + S.Over  |
 
-
   
-### another thought:
+### another thought: yeso gare kaso hola? :P
 **after a set is over, the team with least wickets available will bat first in another set**
 
+# NPL BOT Championship: 🤩 New tournament using this format
+In Nepal, we have NPL cricket. We can enhance its excitement with one more tournament.   
+we have 8 teams in NPL, from these we can form 4 teams by merging two NPL teams for this tournament.
+   - divide 8 teams in two pots: one for batting-major another for bowling-major teams
+   - pick one from both pots to form new team for this tournament
+
+4 teams will play group stage matches in thirties-format.  
+Top 2 teams will play final match in BOT-format.
+total matches: 6 group stages + 1 final = 7 matches  
+So, tournament can be completed in one week.
+Let's make it happen. 😍  
 
 Thank you. ❣️  
 Suman Gyawali  
