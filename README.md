@@ -1,8 +1,16 @@
 # My idea for New/Enhanced ODI Cricket match format
-Current ODI format is of 50 overs innings, I find this format too much boooooring... That's why I am suggesting this **NEW** ODI format.  
-**Rules:**  
-* Match will be of 40 overs for each team
-* Team-A and Team-B will play(bat/bowl) alternatively 10-10 or 20-20 overs.
+Current ODI format is of 50 overs innings, I think this format is too much boooooring... That's why I am suggesting this **NEW** ODI format.  
+### Rules: 
+* Match will be of **40 overs** for each team
+* Team-A and Team-B will play(bat/bowl) alternatively 10-10 or 20-20 overs or 20-10-10 or mixed(Team-A: 20-10-10, Team-B: 20-20).
+
+I suggest Team A and B batting/bowling 20-20 overs alternatively like this:  
+Team A: **🏏x20 0vers** ---> ⚾x20 overs --> **🏏x20 0vers** --> ⚾x20 overs  
+Team B: ⚾x20 overs ---> **🏏x20 0vers** --> ⚾x20 0vers --> **🏏x20 0vers**
+
+Mixed format is like this: (Team-A: 20-10-10, Team-B: 20-20)  
+Team A: **🏏x20 0vers** ---> ⚾x20 overs --> **🏏x10 0vers** --> ⚾x20 overs --> **🏏x10 0vers**  
+Team B: ⚾x20 overs ---> **🏏x20 0vers** --> ⚾x10 0vers --> **🏏x20 0vers** --> ⚾x10 0vers
    
 This format would enhance the excitement for both teams compared to the traditional 50-over format. In the current format, if the batting team plays for 50 overs, the chasing team's fans may not experience as much engagement.
 Additionally, this new format has the potential to conclude earlier if one team significantly outperforms the other, leading to a more decisive result.
@@ -20,8 +28,8 @@ I am suggesting this match format, as it can be more interesting than current bo
 |   Set   | 1          |            | 2          |            | 3          |            |
 |---------|:-----------|------------|:-----------|------------|:-----------|------------|
 | Innings | 1          | 2          | 1          | 2          | 1          | 2          |
-| Team A  | 🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏 | ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾ | ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾ | 🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏 | 🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏 | ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾ |
-| Team B  | ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾ | 🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏 | 🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏 | ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾ | ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾ | 🏏🏏🏏🏏🏏🏏🏏🏏🏏🏏 |
+| Team A  | **🏏 x 10 overs** | ⚾ x10 overs | ⚾ x10 overs | **🏏 x10 overs** | **🏏 x10 overs** | ⚾ x10 overs |
+| Team B  | ⚾ x10 overs | **🏏 x10 overs** | **🏏 x10 overs** | ⚾ x10 overs | ⚾ x10 overs | **🏏 x10 overs** |
 
 "BOT Challenge" Match is divided into 3 Sets (10-over innings in each set)
 
