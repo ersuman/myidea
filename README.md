@@ -63,6 +63,9 @@ e.g. set1 = draw, set2 = team B wins, set3 = draw : then Team B will be winner
   * 2 for win, 0 for loss
   * 3 points for winner, if manage to win in set-1
   * 1 point for losing team if couldn't decide winner from Best-of-three rule (in case of tie), then total score will decide the winner
+  
+#### another thought: yeso gare kaso hola? 😋
+*after a set is over, the team with least wickets available will bat first in another set*
 
 ## Another format: not best-of-three but full 30 overs match (lets say thirties)
 - Even if a team wins set-1 and set-2, game won't stop and continues to play set-3
@@ -97,9 +100,6 @@ e.g. set1 = draw, set2 = team B wins, set3 = draw : then Team B will be winner
 | Winner   | Team A  | Team B  | Draw    | 1-1 + S.Over  |
 | Winner   | Team A  | Team A  | Draw    | 2-0 + S.Over  |
 
-  
-### another thought: yeso gare kaso hola? :P
-**after a set is over, the team with least wickets available will bat first in another set**
 
 # NPL BOT Championship: 🤩 New tournament using this format
 In Nepal, we have NPL cricket. We can enhance its excitement with one more tournament.   
