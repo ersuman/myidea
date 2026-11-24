@@ -1,3 +1,25 @@
+# NPL: Half Home-and-Away Match Format
+Nepal Premeire League (NPL) have 8 teams  
+
+**Current NPL league format: (home only)**   
+- Each team will play to other teams once then go to play-offs  
+- total league matches played by a team: 7
+  
+**Full Home-and-Away league format:**  
+- Each team play with other teams 2 matches (home & away)  
+- total league matches played by a team: 14
+  
+**Proposed Half Home-and-Away league format by me:**  
+  - First round: All team will play once with each other in a single group (7 matches for a team)  
+  - Second round:  
+    two groups will be formed: Odd-group (team ranked 1,3,5,7) and Even-group (team ranked 2,4,6,8)  
+    each team will play 1 match to other teams in the group (+3 matches for a team)  
+    i.e. team ranked 1,3,5,7 will play with each other once, and so do 2,4,6,8  
+  - total league mathces played by a team: 7 + 3 = 10  
+
+ NOTE: Chitwan ground can be used to play matches of 4 teams: lumbini, chitwan, pokhara and janakpur
+
+
 # My idea for New/Enhanced ODI Cricket match format
 Current ODI format is of 50 overs innings, I think this format is too much boooooring... That's why I am suggesting this **NEW** ODI format.  
 ### Rules: 
